@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-CN"
-title                    : "Ze Fu / Ecology, Culture, and Cognition"
+title                    : "Ze Fu"
 title_separator          : "-"
-name                     : &name "Ze Fu"
-description              : &description "academic pages of ze fu"
-url                      : https://ridiculouseze.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://ridiculousze.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png"
   name             : "Ze Fu"
   pronouns         : # example: "he/his"  
-  bio              : "Interested in how knowledge is created and transmitted in group and societies through language communications. I use computational modeling and neural imaging methods to examine the way that language experience impacts on our understanding of the world."
-  location         : "Howntown: HuangGang, HuBei"
+  bio              : "Cognitive Neuroscience, Culture, and Ecology"
+  location         : "HuangGang, HuBei"
   employer         : "Beijing Normal University"
   uri              : # URL
-  email            : "zefu1997@gmail.com" 
+  email            : "zefu@mail.bnu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7y6C1VYAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8395-287X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
