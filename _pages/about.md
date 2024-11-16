@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello! I am Ze Fu (付 泽). I am curious about how people make sense of the world using their internal mental models - the knowledge, beliefs and cultural products obtained through both biological and cultural evolution processes. To explore this, I combine insights and methods from different research fields like cognitive neuroscience, culture evolution, and behavioral ecology. 
 
-I am a PhD student in Cognitive Neuroscience working with Dr. Yanchao Bi at Beijing Normal University. My research compares how people represent meaning across different languages and historical periods, with a focus on how ecological and cultural factors shape these representations. I completed my Bachelor's degree in Psychology at Central China Normal University, where I developed my interest in Cognitive Science. Here is my [CV]. 
+I am a PhD student in Cognitive Neuroscience working with [Dr. Yanchao Bi](https://bilab.bnu.edu.cn/people.html) at Beijing Normal University. My research compares how people represent meaning across different languages and historical periods, with a focus on how ecological and cultural factors shape these representations. I completed my Bachelor's degree in Psychology at Central China Normal University, where I developed my interest in Cognitive Science. Here is my [CV]. 
 
 In my free time, I enjoy watching movies, reading books, running, and walking with friends. I'm fascinated by stories in all their forms - they're one of humanity's most beautiful inventions!
 
