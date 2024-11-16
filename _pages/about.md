@@ -12,7 +12,7 @@ I am a PhD student in Cognitive Neuroscience working with Dr. Yanchao Bi at Beij
 
 In my free time, I enjoy watching movies, reading books, running, and walking with friends. I'm fascinated by stories in all their forms - they're one of humanity's most beautiful inventions!
 
-Research
+Recent Work
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
