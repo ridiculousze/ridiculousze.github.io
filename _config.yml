@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-CN"
 title                    : "Ze Fu / Ecology, Culture, and Cognition"
 title_separator          : "-"
 name                     : &name "Ze Fu"
 description              : &description "academic pages of ze fu"
 url                      : https://ridiculouseze.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ridiculouseze/ridiculouseze.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
