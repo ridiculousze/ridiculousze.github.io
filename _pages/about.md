@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello! I am Ze Fu (付 泽). I am curious about how people make sense of the world using their internal mental models - the knowledge, beliefs and cultural products obtained through both biological and cultural evolution processes. To explore this, I combine insights and methods from different research fields like cognitive neuroscience, culture evolution, and behavioral ecology. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a PhD student in Cognitive Neuroscience working with Dr. Yanchao Bi at Beijing Normal University. My research compares how people represent meaning across different languages and historical periods, with a focus on how ecological and cultural factors shape these representations. I completed my Bachelor's degree in Psychology at Central China Normal University, where I developed my interest in Cognitive Science. Here is my [CV]. 
 
-A data-driven personal website
+In my free time, I enjoy watching movies, reading books, running, and walking with friends. I'm fascinated by stories in all their forms - they're one of humanity's most beautiful inventions!
+
+Research
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
