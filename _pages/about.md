@@ -15,6 +15,7 @@ In my free time, I enjoy watching movies, reading books, running, and walking wi
 Recent Work
 ======
 ** What is the universal semantic structure in languages across the globe **
+
 *** Semantic representation; Culture evolution; Ecology psychology ***
 Recent advances in language models allow us to compare word meaning alignment across hundreds of languages (Youn et al., 2016; Thompson et al., 2020; Lewis et al., 2023) to answer the classic "universal vs culture-specific" debate, while different semantic representation assupmtions and methodologies may result different conclusions. Combined with evidences from mulptile approaches (53 languages' word embedding computation with model comparisons; 253 subjects, 8 languages' rating validation; 86 subjects, 45 languages' fMRI activity validation), we proposed that the constrains rise from the intrinsic way in which the human brain represents semantic knowledge (13-neurocognitive salient dimensions) and variations from nature environments (e.g., climate). 
 
