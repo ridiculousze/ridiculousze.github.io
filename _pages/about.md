@@ -17,6 +17,7 @@ Recent Work
 ### What is the universal semantic structure in languages across the globe?
 #### Semantic representation; Culture evolution; Cross-language alignment
 Recent advances in language models allow us to compare word meaning alignment across a large number of languages (Youn et al., 2016; Thompson et al., 2020; Lewis et al., 2023) to answer the classic "universal vs culture-specific" debate, while different semantic representation assupmtions and methodologies may result different conclusions. Combined with evidences from mulptile approaches (53 languages' word embedding computation with model comparisons; 253 subjects, 8 languages' rating validation; 86 subjects, 45 languages' fMRI activity validation), we proposed a framework to understand cross-language meaning representation: the universal constrains rise from the intrinsic way in which the human brain represents semantic knowledge (13-neurocognitive salient dimensions) and variations from nature environments (e.g., climate).  
+
 *__Ze Fu__, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (In Review). Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate. [PDF]*
 
 ### How sensorimotor knowledge evolve in history text?
@@ -27,7 +28,8 @@ A salient dimension in human semantic space is sensorimotor information carried 
 
 ### How language-derived semantic relations represented in the brain?
 #### Semantic representation; Human structural learning; 
-Human language system is good at extracting abstract relations from natural language expression. We considered different relations computed from Google n-gram corpus that language might be sensitive to from graph learning literature (first-order co-occurrence, sencondary common neighbor relations, and shortest path) and found that different subsystems in the language network are sensitive to different relations: anterior temporal lobe (capturing graph-common-neighbors), inferior frontal gyrus, and posterior middle/inferior temporal gyrus (capturing graph-shortest-path). Similar structural relations computed from visual scene database (VisualGeonme) were found in human scene area, highlighting the information type-specific and statistical property specific manner of semantic representations in the human brain.  
+Human language system is good at extracting abstract relations from natural language expression. We considered different relations computed from Google n-gram corpus that language might be sensitive to from graph learning literature (first-order co-occurrence, sencondary common neighbor relations, and shortest path) and found that different subsystems in the language network are sensitive to different relations: anterior temporal lobe (capturing graph-common-neighbors), inferior frontal gyrus, and posterior middle/inferior temporal gyrus (capturing graph-shortest-path). Similar structural relations computed from visual scene database (VisualGeonme) were found in human scene area, highlighting the information type-specific and statistical property specific manner of semantic representations in the human brain.
+
 *__Ze Fu__, Xiaosha Wang, Xiaoying Wang, Huichao Yang, Jiahuan Wang, Tao Wei, Xuhong Liao, Zhiyuan Liu, Huimin Chen, Yanchao Bi, Different computational relations in language are captured by distinct brain systems, Cerebral Cortex, Volume 33, Issue 4, 15 February 2023, Pages 997–1013, https://doi.org/10.1093/cercor/bhac117* 
 
 Other Project Experience
