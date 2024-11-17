@@ -22,6 +22,7 @@ Recent advances in language models allow us to compare word meaning alignment ac
 ### How sensorimotor knowledge evolve in history text?
 #### Semantic representation; Culture evolution; Historical psychology
 A salient dimension in human semantic space is sensorimotor information carried by words/concepts. From an embodiment view, such information is highly grounded in human interaction with environments. Using a series large-scale text analyses across space (over 43 countries) and space (over the past 100 years), we found that the intensity of sensorimotor information in the collective semantic space significantly modulated by the intensity of infectious diseases. Such a cognitive related change could potentially serve as a potential mechanism for cultural changes.
+
 *__Ze Fu__, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (In Review). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. [PDF]* 
 
 ### How language-derived semantic relations represented in the brain?
