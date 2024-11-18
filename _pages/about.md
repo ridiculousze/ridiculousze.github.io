@@ -27,11 +27,7 @@ A salient component in human semantic space is sensorimotor information carried 
 *__Ze Fu__, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (In Review). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. [PDF]* 
 
 ### How language-derived semantic relations represented in the brain?
-#### Semantic representation; Human structural learning; 
+#### Semantic representation; Human structural learning
 The human language system excels at extracting abstract relations from natural language expressions. In this project, we investigated how these relations contribute to neural semantic representations in the brain. We analyzed different types of relations computed from the Google n-gram corpus that language systems might be sensitive to, based on graph learning literature (first-order co-occurrence, secondary common neighbor relations, and shortest path). We found that different subsystems in the language network are sensitive to specific relations: the anterior temporal lobe (ATL) captures graph-common-neighbors, while the inferior frontal gyrus (IFG) and posterior middle/inferior temporal gyrus (pMTG) capture graph-shortest-path relationships. Similar structural relations computed from a visual scene database (VisualGenome) were found in the human scene area, highlighting how semantic representations in the human brain are specific to both information type and statistical properties.
 
 *__Ze Fu__, Xiaosha Wang, Xiaoying Wang, Huichao Yang, Jiahuan Wang, Tao Wei, Xuhong Liao, Zhiyuan Liu, Huimin Chen, Yanchao Bi, Different computational relations in language are captured by distinct brain systems, Cerebral Cortex, Volume 33, Issue 4, 15 February 2023, Pages 997–1013, https://doi.org/10.1093/cercor/bhac117 [PDF]* 
-
-Other Project Experience
-======
-
