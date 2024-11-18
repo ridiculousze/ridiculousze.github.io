@@ -235,7 +235,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      side_bar: false
+      sidebar: false
       read_time: true
       comments: true
       share: true
