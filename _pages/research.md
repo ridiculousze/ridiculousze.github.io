@@ -9,4 +9,4 @@ I am broadly interested in how human cognitive diversity co-evolved with our uni
 
 Below are some topics/projects that I am interested/have been working on:
 
-**How people organize knowledge space?**
+**The Evolution of Knowledge Systems Across Cultures and Time**
