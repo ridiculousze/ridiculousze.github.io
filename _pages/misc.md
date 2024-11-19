@@ -9,7 +9,7 @@ author_profile: true
 
 **2024**
 
-Books
+***Books***
 
 *Crime and Punishment by Fyodor Dostoevsky*
 
@@ -17,7 +17,7 @@ Books
 
 *Rediscover A Lost Erea/荒野上的大师 by QuanZhang*
 
-Movies & Drama
+***Movies & Drama***
 
 *Underground by Emir Kusturica*
 
