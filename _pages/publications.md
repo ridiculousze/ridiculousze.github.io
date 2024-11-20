@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can find a full list of my articles and preprints on my [Google Scholar](https://scholar.google.com/citations?user=7y6C1VYAAAAJ&hl=en).
+You can find my articles on my [Google Scholar](https://scholar.google.com/citations?user=7y6C1VYAAAAJ&hl=en). Below is a full list of the peer-reviewed articles and preprints:
 
 Publications and Manuscripts
 ======
