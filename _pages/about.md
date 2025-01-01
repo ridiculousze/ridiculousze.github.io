@@ -26,7 +26,7 @@ Recent advances in language models allow us to compare word meaning alignment ac
 A salient component in human semantic space is sensorimotor information carried by words/concepts. From an embodiment view, such information is highly grounded in human interaction with environments, while the exact mechanism remains elusive. Using a series large-scale text analyses across space (over 43 countries) and space (over the past 100 years), we found that the intensity of sensorimotor information in the collective semantic space (revealed by language) significantly modulated by the intensity of infectious diseases. These language changes may reflect shifts in cognitive patterns that drive cultural evolution.  
 ****Semantic representation; Cultural evolution; Historical psychology****  
 
-*__Ze Fu__, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (In Review). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. [PDF](/files/pathsem_2024_09_submitted.pdf)* 
+*__Ze Fu__, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (In Press). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. Nature Communications Psychology [PDF](/files/pathsem_2024_09_submitted.pdf)* 
 
 ### How language-derived semantic relations represented in the brain?
 
