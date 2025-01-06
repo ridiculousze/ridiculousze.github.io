@@ -14,7 +14,7 @@ Publications and Manuscripts
 
 **Fu, Z.**, Chu, Y., Zhang, T., Li, Y., Wang, X., & Bi, Y. (Under Review). Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate.  
 
-**Fu, Z.**, Chen, H., Liu, Z., Sun, M., Liu, Z., & Bi, Y. (Under Review). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space.
+**Fu, Z.**, Chen, H., Liu, Z., Sun, M., Liu, Z., & Bi, Y. (2025). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. *Communications Psychology*, 3(1), https://doi.org/10.1038/s44271-024-00183-5
 
 **Fu, Z.**, Wang, X., Wang, X., Yang, H., Wang, J., Wei, T., ... & Bi, Y. (2023). Different computational relations in language are captured by distinct brain systems. *Cerebral Cortex*, 33(4), 997-1013.
 
