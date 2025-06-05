@@ -1,5 +1,5 @@
 ---
-title: 'Trade memories'
+title: 'Hope'
 date: 2025-06-05
 tags:
   - galaxy
