@@ -17,7 +17,7 @@ Below are some topics/projects that I have been working on/am interested (all fo
 
   Language is an important tool for humans to communicate with one another. This linguistic capacity shapes abstract cognition through multiple mechanisms: categorization, relation building, and cultural transmission. I aim to study cross-cultural cognitive phenotype patterns and how they are shaped by specific language experiences.
 
-  # Negation - a recent project that I've investigated is cognitive processing of negation expressions: how it's modulated by semantic systems and whether langauge experiences can be a good predictor.
+  Negation - a recent project that I've investigated is cognitive processing of negation expressions: how it's modulated by semantic systems and whether langauge experiences can be a good predictor.
 
 **How Semantic Processing Regulates Cultural Evolutionary Processes**
 
