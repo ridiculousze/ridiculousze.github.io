@@ -7,52 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Ze Fu (付泽)** — a cognitive scientist interested in how humans build and update internal models of the world. I study how **semantic knowledge**, as a core component of human cognition, varies across **languages, cultures, and ecological environments**, and how these variations emerge through cultural and biological evolution.
+Hello! I am **Ze Fu (付泽)**. I study how humans represent meaning, and how semantic knowledge varies across **languages, cultures, and ecological environments**. My work combines approaches from **cognitive neuroscience**, **cultural evolution**, and **large-scale language analysis** to understand both the **universal structure** of semantic representations and their **adaptive variations** across time and space.
 
-I am currently a **Postdoctoral Researcher at Institut Jean Nicod, École Normale Supérieure – PSL (Paris)**, working with **Prof. Nicolas Baumard**. Before this, I completed my Ph.D. in Cognitive Neuroscience at **Beijing Normal University**, advised by **Prof. Yanchao Bi**. I also spent time at UC Berkeley as a visiting student.
+I am currently a **Postdoctoral Researcher at Institut Jean Nicod, École Normale Supérieure – PSL (Paris)**, working with **Prof. Nicolas Baumard**. I received my Ph.D. in Cognitive Neuroscience from **Beijing Normal University** (advisor: **Prof. Yanchao Bi**), and previously studied at **UC Berkeley** as a visiting student.  
+Here is my **[CV](/files/fuze_cv.pdf)**.
 
-My work integrates methods from  
-**cognitive neuroscience · cultural evolution · human behavioral ecology · large-scale text and language models · neuro-semantic modeling**  
-to understand the universal and adaptive structures of meaning representation.
-
-Here is my latest **[CV](/files/fuze_cv.pdf)**.
+Outside work, I enjoy films, books, running, and long walks with friends. I like all forms of stories—one of the most remarkable human inventions.
 
 ---
 
-## Research Overview
-My research asks a central question:  
-**How does the human mind organize meaning, and how does this organization adapt to cultural and ecological pressures?**
+# Research Focus
+My research aims to understand:
 
-To address this, I combine:
+**How does the human mind structure meaning, and how does this structure adapt to cultural and ecological contexts?**
 
-- cross-linguistic semantic modeling (53+ languages)  
-- historical corpora and pathogen/climate databases (100+ years)  
-- fMRI data from multilingual participant samples  
-- computational semantics (embeddings, graph models, LLM-based analysis)  
-- cross-cultural behavioral data  
+To address this question, I draw on:
 
-These integrative approaches allow me to map both **universal neurocognitive principles** and **systematic cross-cultural variations** in semantic representation.
+- cross-linguistic semantic modeling (50+ languages)  
+- historical corpus analyses (100+ years)  
+- fMRI studies of semantic representation  
+- cultural and ecological datasets (e.g., climate, pathogens, norms)  
+- computational models (embeddings, graph models, LLM-based analysis)
+
+This integrative approach allows me to examine both **shared neurocognitive constraints** and **systematic cross-cultural/historical variation** in semantic representation.
 
 ---
 
 # Recent Work
-Below are selected projects that reflect my broader research program.
+Below are some recent projects that reflect this broader direction.
 
 ---
 
-## 🌍 Universal structures of meaning across languages
-Recent advances in language models allow us to compare semantic structures across hundreds of languages. However, methodological differences often lead to inconsistent conclusions about what is “universal” versus “culture-specific.”
-
+## Universal semantic structure across languages
+How similar are semantic structures across human languages?  
 Using:
 
-- 53 languages’ embeddings  
-- 253 participants’ semantic ratings across 8 languages  
-- 86 participants’ fMRI responses across 45 languages  
+- word embeddings from 53 languages  
+- semantic ratings from 253 speakers across 8 languages  
+- fMRI data covering 45 languages  
 
-we show that:
+we identify:
 
-- **13 neurocognitive semantic dimensions** form a universal backbone of meaning  
-- **climate** systematically shapes cross-language semantic variations  
+- **13 universal neurocognitive semantic dimensions**  
+- ecological factors (e.g., **climate**) that shape cross-language variability  
 
 **_Ze Fu_**, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (In Review)  
 *Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate.*  
@@ -60,16 +57,16 @@ we show that:
 
 ---
 
-## 🦠 How pathogens shape semantic space across cultures and history
-A core component of semantic representation is the **sensorimotor** information embedded in words. But how does this dimension evolve?
-
+## Pathogens and long-term shifts in semantic space
+We tested whether infectious disease levels shape how societies use and organize meaning.  
 Across:
 
-- 43 countries  
-- 100+ years of historical text  
+- 43 countries (cross-cultural)  
+- 100+ years (historical corpora)  
 - multiple pathogen databases  
 
-we find that **higher pathogen severity → stronger sensorimotor semantic dimensions** in the collective lexical space. These shifts persist after controlling for wealth and cultural tightness, and reflect a deeper cognitive adaptation during cultural evolution.
+we find that **higher pathogen severity is consistently associated with stronger sensorimotor semantic dimensions**.  
+This pattern remains after controlling for wealth, cultural tightness, and autoregressive structure.
 
 **_Ze Fu_**, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (2025).  
 *Pathogen stress heightens sensorimotor dimensions in the human collective semantic space.*  
@@ -79,25 +76,16 @@ https://doi.org/10.1038/s44271-024-00183-5
 
 ---
 
-## 🧠 How semantic relations are encoded in the brain
-Languages encode a rich set of structural relations (co-occurrence, shared neighbors, graph paths). How are these abstract relations reflected in the brain?
+## Neural representations of language-derived relations
+Different kinds of semantic relations are embedded in linguistic data.  
+Using graph-based measures and fMRI, we show:
 
-Using graph-based semantic models + fMRI, we find:
-
-- ATL encodes **graph-common-neighbor** relations  
-- IFG & pMTG encode **graph-shortest-path** relations  
-- Visual scene-selective cortex encodes similar structural relations in image-based semantic graphs  
-
-Highlighting that **neural semantic systems are tuned to the statistical structure of information**.
+- ATL encodes **graph common-neighbor** relations  
+- IFG and pMTG encode **graph shortest-path** relations  
+- similar structural relations appear in the scene-selective cortex for visual-concept graphs  
 
 **_Ze Fu_**, Xiaosha Wang, Xiaoying Wang, Huichao Yang, Jiahuan Wang, Tao Wei, Xuhong Liao, Zhiyuan Liu, Huimin Chen, Yanchao Bi (2023).  
 *Different computational relations in language are captured by distinct brain systems.*  
 Cerebral Cortex.  
 https://doi.org/10.1093/cercor/bhac117  
 [PDF](/files/cc_2023.pdf)
-
----
-
-## Outside academia
-I enjoy watching films, running, reading fiction and essays, and wandering around cities with friends.  
-I am fascinated by **stories** in all their forms — one of humanity’s most beautiful inventions.
