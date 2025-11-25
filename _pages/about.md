@@ -6,31 +6,98 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am Ze Fu (付 泽). I am curious about how people make sense of the world using their internal mental models - the knowledge, beliefs and cultural products obtained through both biological and cultural evolution processes. To explore this, I combine insights and methods from different research fields like cognitive neuroscience, cultural evolution, and human behavioral ecology. 
 
-I am a PhD student in Cognitive Neuroscience working with [Dr. Yanchao Bi](https://bilab.bnu.edu.cn/people.html) at Beijing Normal University. My research compares how people represent meaning across different languages and historical periods, with a focus on how ecological and cultural factors shape these representations. I completed my Bachelor's degree in Psychology at Central China Normal University, where I developed my interest in Cognitive Science. Here is my [CV](/files/fuze_cv.pdf). 
+Hello! I am **Ze Fu (付泽)** — a cognitive scientist interested in how humans build and update internal models of the world. I study how **semantic knowledge**, as a core component of human cognition, varies across **languages, cultures, and ecological environments**, and how these variations emerge through cultural and biological evolution.
 
-In my free time, I enjoy watching movies, reading books, running, and walking with friends. I'm fascinated by stories in all their forms - they're one of humanity's most beautiful inventions!
+I am currently a **Postdoctoral Researcher at Institut Jean Nicod, École Normale Supérieure – PSL (Paris)**, working with **Prof. Nicolas Baumard**. Before this, I completed my Ph.D. in Cognitive Neuroscience at **Beijing Normal University**, advised by **Prof. Yanchao Bi**. I also spent time at UC Berkeley as a visiting student.
 
-Recent Work
-======
-### What is the universal semantic structure in languages across the globe?
+My work integrates methods from  
+**cognitive neuroscience · cultural evolution · human behavioral ecology · large-scale text and language models · neuro-semantic modeling**  
+to understand the universal and adaptive structures of meaning representation.
 
-Recent advances in language models allow us to compare word meaning alignment across a large number of languages (Youn et al., 2016; Thompson et al., 2020; Lewis et al., 2023) reviving the classic "universal vs culture-specific" debate, while different semantic representation assupmtions and methodologies may result different conclusions. Combined with evidences from mulptile approaches (53 languages' word embedding computation with model comparisons; 253 subjects, 8 languages' rating validation; 86 subjects, 45 languages' fMRI activity validation), we proposed a framework to understand cross-language meaning representation: the universal constrains rise from the intrinsic way in which the human brain represents semantic knowledge (13-neurocognitive salient dimensions) and variations from natural environments (e.g., climate).  
-****Semantic representation; Cultural evolution; Cross-language alignment****
+Here is my latest **[CV](/files/fuze_cv.pdf)**.
 
-*__Ze Fu__, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (In Review). Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate. [PDF](/files/unisem_2024_11_submitted.pdf)*
+---
 
-### How 'sensorimotor' language evolve in history text?
+## Research Overview
+My research asks a central question:  
+**How does the human mind organize meaning, and how does this organization adapt to cultural and ecological pressures?**
 
-A salient component in human semantic space is sensorimotor information carried by words/concepts. From an embodiment view, such information is highly grounded in human interaction with environments, while the exact mechanism remains elusive. Using a series large-scale text analyses across space (over 43 countries) and space (over the past 100 years), we found that the intensity of sensorimotor information in the collective semantic space (revealed by language) significantly modulated by the intensity of infectious diseases. These language changes may reflect shifts in cognitive patterns that drive cultural evolution.  
-****Semantic representation; Cultural evolution; Historical psychology****  
+To address this, I combine:
 
-*__Ze Fu__, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi. Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. Communications Psychology, Volumne 3, Issue 1, 05 January 2025, https://doi.org/10.1038/s44271-024-00183-5 [PDF](/files/s44271-024-00183-5.pdf)* 
+- cross-linguistic semantic modeling (53+ languages)  
+- historical corpora and pathogen/climate databases (100+ years)  
+- fMRI data from multilingual participant samples  
+- computational semantics (embeddings, graph models, LLM-based analysis)  
+- cross-cultural behavioral data  
 
-### How language-derived semantic relations represented in the brain?
+These integrative approaches allow me to map both **universal neurocognitive principles** and **systematic cross-cultural variations** in semantic representation.
 
-The human language system excels at extracting abstract relations from natural language expressions. In this project, we investigated how these relations contribute to neural semantic representations in the brain. We analyzed different types of relations computed from the Google n-gram corpus that language systems might be sensitive to, based on graph learning literature (first-order co-occurrence, secondary common neighbor relations, and shortest path). We found that different subsystems in the language network are sensitive to specific relations: the anterior temporal lobe (ATL) captures graph-common-neighbors, while the inferior frontal gyrus (IFG) and posterior middle/inferior temporal gyrus (pMTG) capture graph-shortest-path relationships. Similar structural relations computed from a visual scene database (VisualGenome) were found in the human scene area, highlighting how semantic representations in the human brain are specific to both information type and statistical properties.  
-****Semantic representation; Human structural learning****  
+---
 
-*__Ze Fu__, Xiaosha Wang, Xiaoying Wang, Huichao Yang, Jiahuan Wang, Tao Wei, Xuhong Liao, Zhiyuan Liu, Huimin Chen, Yanchao Bi, Different computational relations in language are captured by distinct brain systems, Cerebral Cortex, Volume 33, Issue 4, 15 February 2023, Pages 997–1013, https://doi.org/10.1093/cercor/bhac117 [PDF](/files/cc_2023.pdf)* 
+# Recent Work
+Below are selected projects that reflect my broader research program.
+
+---
+
+## 🌍 Universal structures of meaning across languages
+Recent advances in language models allow us to compare semantic structures across hundreds of languages. However, methodological differences often lead to inconsistent conclusions about what is “universal” versus “culture-specific.”
+
+Using:
+
+- 53 languages’ embeddings  
+- 253 participants’ semantic ratings across 8 languages  
+- 86 participants’ fMRI responses across 45 languages  
+
+we show that:
+
+- **13 neurocognitive semantic dimensions** form a universal backbone of meaning  
+- **climate** systematically shapes cross-language semantic variations  
+
+**_Ze Fu_**, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (In Review)  
+*Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate.*  
+[PDF](/files/unisem_2024_11_submitted.pdf)
+
+---
+
+## 🦠 How pathogens shape semantic space across cultures and history
+A core component of semantic representation is the **sensorimotor** information embedded in words. But how does this dimension evolve?
+
+Across:
+
+- 43 countries  
+- 100+ years of historical text  
+- multiple pathogen databases  
+
+we find that **higher pathogen severity → stronger sensorimotor semantic dimensions** in the collective lexical space. These shifts persist after controlling for wealth and cultural tightness, and reflect a deeper cognitive adaptation during cultural evolution.
+
+**_Ze Fu_**, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (2025).  
+*Pathogen stress heightens sensorimotor dimensions in the human collective semantic space.*  
+Communications Psychology.  
+https://doi.org/10.1038/s44271-024-00183-5  
+[PDF](/files/s44271-024-00183-5.pdf)
+
+---
+
+## 🧠 How semantic relations are encoded in the brain
+Languages encode a rich set of structural relations (co-occurrence, shared neighbors, graph paths). How are these abstract relations reflected in the brain?
+
+Using graph-based semantic models + fMRI, we find:
+
+- ATL encodes **graph-common-neighbor** relations  
+- IFG & pMTG encode **graph-shortest-path** relations  
+- Visual scene-selective cortex encodes similar structural relations in image-based semantic graphs  
+
+Highlighting that **neural semantic systems are tuned to the statistical structure of information**.
+
+**_Ze Fu_**, Xiaosha Wang, Xiaoying Wang, Huichao Yang, Jiahuan Wang, Tao Wei, Xuhong Liao, Zhiyuan Liu, Huimin Chen, Yanchao Bi (2023).  
+*Different computational relations in language are captured by distinct brain systems.*  
+Cerebral Cortex.  
+https://doi.org/10.1093/cercor/bhac117  
+[PDF](/files/cc_2023.pdf)
+
+---
+
+## Outside academia
+I enjoy watching films, running, reading fiction and essays, and wandering around cities with friends.  
+I am fascinated by **stories** in all their forms — one of humanity’s most beautiful inventions.
