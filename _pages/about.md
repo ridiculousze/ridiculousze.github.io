@@ -31,22 +31,17 @@ This work aims to understand both universal constraints and context-dependent va
 ## Recent Work
 
 ### Semantic structure across languages
-Cross-linguistic analyses of embeddings from 53 languages, semantic ratings across 8 languages, and fMRI data from 45 languages identify shared semantic dimensions and systematic ecological variation. 
-Ze Fu, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (In Review)  
-Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate [PDF](/files/unisem_2024_11_submitted.pdf)  
+Cross-linguistic analyses of embeddings from 53 languages, semantic ratings across 8 languages, and fMRI data from 45 languages identify shared semantic dimensions and systematic ecological variation.
+Ze Fu, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (In Review) Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate [PDF](/files/unisem_2024_11_submitted.pdf)  
 
 ---
 
 ### Pathogens and semantic variation
 Historical and cross-cultural analyses show that higher pathogen severity is associated with increased sensorimotor semantic dimensions in collective language use, both across countries and over the past century.
-Ze Fu, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (2025)  
-Pathogen stress heightens sensorimotor dimensions in the human collective semantic space  
-Communications Psychology [DOI](https://doi.org/10.1038/s44271-024-00183-5) [PDF](/files/s44271-024-00183-5.pdf)    
+Ze Fu, Huimin Chen, Zhan Liu, Maosong Sun, Zhiyuan Liu, Yanchao Bi (2025) Pathogen stress heightens sensorimotor dimensions in the human collective semantic space Communications Psychology [DOI](https://doi.org/10.1038/s44271-024-00183-5) [PDF](/files/s44271-024-00183-5.pdf)    
 
 ---
 
 ### Neural encoding of semantic relations
 Using graph-based semantic models and fMRI, we show that distinct neural systems encode different structural properties of linguistic relations.  
-Ze Fu, Xiaosha Wang, Xiaoying Wang, Huichao Yang, Jiahuan Wang, Tao Wei, Xuhong Liao, Zhiyuan Liu, Huimin Chen, Yanchao Bi (2023)  
-Different computational relations in language are captured by distinct brain systems  
-Cerebral Cortex [DOI](https://doi.org/10.1093/cercor/bhac117) [PDF](/files/cc_2023.pdf)
+Ze Fu, Xiaosha Wang, Xiaoying Wang, Huichao Yang, Jiahuan Wang, Tao Wei, Xuhong Liao, Zhiyuan Liu, Huimin Chen, Yanchao Bi (2023) Different computational relations in language are captured by distinct brain systems Cerebral Cortex [DOI](https://doi.org/10.1093/cercor/bhac117) [PDF](/files/cc_2023.pdf)
