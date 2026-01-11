@@ -7,6 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
+**2025 Recommendation**
+
+***Books***
+
+*A Moveable Feast by Ernest Hemingway*
+
+*Transcending Boundaries/跨越边界的社区 by Biao Xiang*
+
+*White Nights by Fyodor Dostoevsky*
+
+***Movies***
+
+*The Suspended Step of the Stork by Thodōros Angelopoulos*
+
+*Yi Yi/一一 by Edward Yang*
+
+*There's Still Tomorrow by Paola Cortellesi*
+
+*Annie Hall by Woody Allen)*
+
 **2024 Recommendation**
 
 ***Books***
