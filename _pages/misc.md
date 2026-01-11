@@ -25,7 +25,7 @@ author_profile: true
 
 *There's Still Tomorrow by Paola Cortellesi*
 
-*Annie Hall by Woody Allen)*
+*Annie Hall by Woody Allen*
 
 **2024 Recommendation**
 
