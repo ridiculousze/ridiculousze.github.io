@@ -33,7 +33,7 @@ This work aims to understand both universal constraints and context-dependent va
 ### Semantic structure across languages
 Cross-linguistic analyses of embeddings from 53 languages, semantic ratings across 8 languages, and fMRI data from 45 languages identify shared semantic dimensions and systematic ecological variation.   
 
-Ze Fu, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (In Review) Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate. [PDF](/files/unisem_2024_11_submitted.pdf)  
+Ze Fu, Yuxi Chu, Tangxiaoxue Zhang, Yawen Li, Xiaosha Wang, Yanchao Bi (2026) Semantic similarity across languages reflects neurocognitive dimensions shaped by climate. *Nature Communications* [DOI](https://doi.org/10.1038/s41467-026-70608-8) [PDF](/files/unisem_2024_11_submitted.pdf)  
 
 ---
 
