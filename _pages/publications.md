@@ -12,7 +12,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com/citat
 Publications and Manuscripts
 ======
 
-**Fu, Z.**, Chu, Y., Zhang, T., Li, Y., Wang, X., & Bi, Y. (Under Review). Semantics across the globe: A universal neurocognitive semantic structure adaptive to climate.  
+**Fu, Z.**, Chu, Y., Zhang, T., Li, Y., Wang, X., & Bi, Y. (2026). Semantic similarity across languages reflects neurocognitive dimensions shaped by climate. *Nature Communications*, 17, 4016. https://doi.org/10.1038/s41467-026-70608-8 
 
 **Fu, Z.**, Chen, H., Liu, Z., Sun, M., Liu, Z., & Bi, Y. (2025). Pathogen stress heightens sensorimotor dimensions in the human collective semantic space. *Communications Psychology*, 3(2). https://doi.org/10.1038/s44271-024-00183-5
 
