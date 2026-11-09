@@ -70,6 +70,20 @@ hr { height: 1px; margin: 22px 0; border: 0; background: var(--line); }
 }
 .nav a { color: #666; }
 .nav a:hover { color: var(--link); }
+.visitor-map {
+  grid-column: 1 / -1;
+  width: 100%;
+  max-width: 220px;
+  margin-top: 12px;
+}
+.visitor-map > summary {
+  width: fit-content;
+  color: #666;
+  cursor: pointer;
+  font-size: 12px;
+}
+.visitor-map > summary:hover { color: var(--link); }
+.visitor-map[open] > summary { margin-bottom: 6px; }
 main { min-width: 0; }
 .intro h2 { margin-bottom: 16px; }
 .research-framework { margin: 30px 0 34px; }
@@ -250,7 +264,7 @@ footer p { margin: 0; }
   body { padding: 0; font-size: 11pt; }
   .wrapper { display: block; }
   .profile { position: static; max-height: none; }
-  .portrait, .nav, .skip-link, footer { display: none; }
+  .portrait, .nav, .visitor-map, .skip-link, footer { display: none; }
   .profile hr { display: none; }
   .section { break-inside: auto; }
   .publication-list article, .timeline article { break-inside: avoid; }
